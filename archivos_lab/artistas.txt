@@ -1,2 +1,3 @@
 Coldplay
-The Midnight
+Metallica
+>>>>>>> 92cbd917e19fcc8559b102858b7ea5cc07b3a516
